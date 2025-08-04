@@ -6,7 +6,7 @@
 </p>
 
 ---
-<img align="right" alt="coding" width="400" src="https://www.pinterest.com/pin/discover-the-dark-world-of-black-magic-m66-1987--502010689709281533">
+
 ### 🔥 About Me
 - 🔭 Working on [**MatruShakti**](https://matru-shaktii.vercel.app/)
 - 🌱 Exploring **GenAI, ML Models, Deep Learning & Ethical AI**
