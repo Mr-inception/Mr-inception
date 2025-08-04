@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikas Gupta</h1>
 <h4 align="center">🚀 Building tech for tomorrow | Full Stack + GenAI + Machine Learning 🧠 | Debugging life one commit at a time</h4>
-<img align="right" alt="coding" width="400" src="https://www.pinterest.com/pin/discover-the-dark-world-of-black-magic-m66-1987--502010689709281533">
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mr-inception&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
@@ -14,6 +14,8 @@
 - 💬 Ask me about: Full Stack Dev, Debugging, AI/ML, DSA, Python, C++
 - 📫 Reach me at: **tech.vikaskaushal10@gmail.com**
 - ⚡ Fun fact: `Code toh likh leta hoon, par zindagi ka logic abhi bhi segmentation fault de raha hai 🐞`
+
+<img align="right" alt="coding" width="400" src="https://www.pinterest.com/pin/discover-the-dark-world-of-black-magic-m66-1987--502010689709281533">
 
 ---
 
