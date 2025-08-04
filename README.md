@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vikas Gupta</h1>
 <h3 align="center">A passionate explorer on a mission to shape tomorrow with technology 💡 Aspiring Full Stack Developer 🔍 Currently diving deep into GenAI & Machine Learning Models 🎯 Fueled by curiosity, coffee ☕, and a relentless drive to succeed</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-inception&label=Profile%20views&color=0e75b6&style=flat" alt="mr-inception" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-inception" alt="mr-inception" /></a> </p>
 
 - 🔭 I’m currently working on [MatruShakti](https://matru-shaktii.vercel.app/)
@@ -18,9 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mr_inception10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_inception10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vikas-kaushal2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikas-kaushal2004" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/mr_inception?csrf_token=c142099b41153871682a6ce35a96962d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/mr_inception?csrf_token=c142099b41153871682a6ce35a96962d" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/mrinception/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mrinception/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vikas-kaushal2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas-kaushal2004" height="30" width="40" /></a>
+<a href="https://instagram.com/mr_inception10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_inception10" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mr_inception" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mr_inception" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mrinception" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrinception" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
