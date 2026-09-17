@@ -8,7 +8,7 @@
 ---
 
 ### 🔥 About Me
-- 🔭 Working on [**MatruShakti**](https://matru-shaktii.vercel.app/)
+- 🔭 Working on [**MatruShakti**](https://matrushakti-ms.onrender.com/)
 - 🌱 Exploring **GenAI, ML Models, Deep Learning & Ethical AI**
 - 🧑‍💻 Projects: [Portfolio](https://new-portfolio-two-eta-20.vercel.app/)
 - 💬 Ask me about: Full Stack Dev, Debugging, AI/ML, DSA, Python, C++
